@@ -1,6 +1,6 @@
 AnimatedVectorDrawable
 ----------------------
-
+from https://github.com/chiuki
 Sample code for [AnimatedVectorDrawable][1] for Android.
 
   * Example from [official documentation][1]
